@@ -209,7 +209,7 @@ export const pricing = [
   {
     id: "0",
     title: "Basic",
-    description: "AI chatbot, personalized recommendations",
+    description: "Lorem ipsum dolor sit amet.",
     price: "0",
     features: [
       "An AI chatbot that can understand your queries",
@@ -220,7 +220,7 @@ export const pricing = [
   {
     id: "1",
     title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
+    description: "Lorem ipsum dolor sit amet.",
     price: "9.99",
     features: [
       "An advanced AI chatbot that can understand complex queries",
@@ -231,8 +231,8 @@ export const pricing = [
   {
     id: "2",
     title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
-    price: null,
+    description: "Lorem ipsum dolor sit amet.",
+    price: "99.99",
     features: [
       "An AI chatbot that can understand your queries",
       "Personalized recommendations based on your preferences",
@@ -244,16 +244,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Lorem Ipsum",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, corrupti quasi eligendi fuga facilis necessitatibus!",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Lorem Ipsum",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, corrupti quasi eligendi fuga facilis necessitatibus!",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -261,16 +261,16 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    title: "Lorem Ipsum",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, corrupti quasi eligendi fuga facilis necessitatibus!",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
   {
     id: "3",
-    title: "Fast responding",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Lorem Ipsum",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, corrupti quasi eligendi fuga facilis necessitatibus!",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -278,16 +278,16 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Lorem Ipsum",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, corrupti quasi eligendi fuga facilis necessitatibus!",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "5",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Lorem Ipsum",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, corrupti quasi eligendi fuga facilis necessitatibus!",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
